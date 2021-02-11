@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  background-image: url("https://shared.reliclink.com/dlls/b10f0179922bca4196918ef5f88a802a.jpg");
+  background-color: #222831;
+  color: #dddddd;
+  width: 100%;
+  align-content: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 10px;
+  color: #f05454;
+}
+
+p {
+  font-size: 150%;
+  padding: 10px;
+}
+
+hr {
+  border-style: solid none none;
+  border-top: solid 3px;
+}
+
+h2 {
+  padding: 10px;
+  color: #f05454;
+}
+
+h3 {
+  padding: 20px;
+}
+
+td {
+  padding: 10px;
+  border-style: hidden;
+}
+
+.Part1 {
+  background-color: #000000;
+  margin: 10% 10% 10% 10%;
+  height: 80%;
+  width: 80%;
+  position: relative;
+}
+
+.Part2 {
+  text-align: center;
+}
+
+.Part3 {
+  font-size: 150%;
+  border-style: solid;
+  padding: 20px;
+  display: inline-block;
+  position: relative;
+  margin-left: 30px;
+}
