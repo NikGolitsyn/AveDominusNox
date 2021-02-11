@@ -36,7 +36,10 @@ td {
   padding: 10px;
   border-style: hidden;
 }
-
+table {
+  height: auto;
+  width: auto;
+}
 .Part1 {
   background-color: #000000;
   margin: 10% 10% 10% 10%;
